@@ -1,10 +1,5 @@
 # :spades:  blackjack
-https://jacquelynmarcella.github.io/blackjack/
-
 A JavaScript based Blackjack game. Beat the dealer by getting as close to 21 without going over.
-
-![](http://www.jacquelynmarcella.com/img/blackjack-1.jpg)
-![](http://www.jacquelynmarcella.com/img/blackjack-mobile.jpg)
 
 ## :diamonds: Requirements
 * Game is playable against dealer
@@ -56,10 +51,3 @@ A JavaScript based Blackjack game. Beat the dealer by getting as close to 21 wit
 
 ## :diamonds: Next Steps
 * Further test the double ace drawing scenario to ensure it is working consistently.
-
-## :diamonds: Resources Used
-* CSS Framework: http://materializecss.com/
-* Card Deck Graphics: https://opengameart.org/content/cards-set
-* Chip Icons: 
-   * https://thenounproject.com/dorxela/
-   * https://thenounproject.com/meisandra0583/
